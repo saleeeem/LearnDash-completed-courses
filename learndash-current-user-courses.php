@@ -1,3 +1,5 @@
+<?php 
+
 // First  Course Complete Offer Alert Bar
 function show_alert_after_course_completion() {
     
